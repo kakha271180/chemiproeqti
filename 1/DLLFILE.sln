@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DLLFILE", "DLLFILE\DLLFILE.csproj", "{886F9AC5-C1E0-4645-8C62-3CBAD352079B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kakha", "kakha\kakha.csproj", "{72816D17-FD8C-4746-9CD0-160332886C0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886F9AC5-C1E0-4645-8C62-3CBAD352079B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886F9AC5-C1E0-4645-8C62-3CBAD352079B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886F9AC5-C1E0-4645-8C62-3CBAD352079B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886F9AC5-C1E0-4645-8C62-3CBAD352079B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72816D17-FD8C-4746-9CD0-160332886C0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72816D17-FD8C-4746-9CD0-160332886C0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72816D17-FD8C-4746-9CD0-160332886C0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72816D17-FD8C-4746-9CD0-160332886C0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B4649EA-74E9-4C1C-A91B-2F8A153EF3F8}
+	EndGlobalSection
+EndGlobal
