@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DLLFILE;
+using System.IO;
 
 namespace kakha
 {
@@ -17,6 +19,8 @@ namespace kakha
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            chacerisclasi.monacemischacera = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), "database.db");
         }
     }
 }
